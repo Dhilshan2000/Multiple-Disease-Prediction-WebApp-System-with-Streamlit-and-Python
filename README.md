@@ -41,13 +41,13 @@ Get an instant prediction whether the person is likely to have the disease or no
 
 📌 Screenshots
 
-###Diabetes Prediction
+Diabetes Prediction
 ![image](https://github.com/user-attachments/assets/13814d58-6b50-4b50-81c8-9ebefe8bc451)
 
-###Heart Disease Prediction
+Heart Disease Prediction
 ![image](https://github.com/user-attachments/assets/532676ca-833f-4fed-86cc-e3ba017be7c5)
 
-###Parkinson’s Prediction
+Parkinson’s Prediction
 ![image](https://github.com/user-attachments/assets/d479be42-8a87-4404-8a2e-ad13afc63b70)
 
 
