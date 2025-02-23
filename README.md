@@ -10,6 +10,7 @@ This project is a Multiple Disease Prediction System built using Python, Streaml
 By entering relevant health parameters, users can receive instant predictions powered by trained ML models.
 
 📌 Features
+
 ✅ Diabetes Prediction
 ✅ Heart Disease Prediction
 ✅ Parkinson’s Disease Prediction
